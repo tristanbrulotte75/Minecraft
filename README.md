@@ -1,3 +1,3 @@
-###### Minecraft
+##################### Minecraft
 
-Simple Minecraft-inspired demo written in Python and Pyglet.
+Simple Minecraft-inspired demo in Mac OS 
