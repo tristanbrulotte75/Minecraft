@@ -1,3 +1,3 @@
-![](images/download.png)
+![](download.png)
 
 Simple Minecraft-inspired demo in Mac OS 
